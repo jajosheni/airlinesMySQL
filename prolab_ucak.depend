@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495307505 source:c:\users\anonmonster\desktop\c_tuts\prolab_ucak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"mysql.h"
+
